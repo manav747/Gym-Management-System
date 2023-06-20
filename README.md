@@ -1,19 +1,19 @@
 # Gym-Management-System
 This is a Gym Management System implemented in C++ that allows you to manage various aspects of a gym, including member registration, attendance tracking, workout scheduling, and membership fee management.
 
-Features
+# Features
 Member Registration: Add new members to the system by providing their details such as name, age, gender, and contact information.
 Attendance Tracking: Record member attendance on a daily basis to keep track of their gym visits.
 Workout Scheduling: Schedule workouts and assign trainers to specific sessions.
 Membership Fee Management: Track membership fees and generate payment invoices for members.
-Requirements
+# Requirements
 To compile and run this program, you need:
 
 C++ compiler (supporting C++11 or higher)
 Standard Template Library (STL)
 Any development environment of your choice (e.g., Visual Studio, Code::Blocks, Xcode)
 
-Usage
+# Usage
 The Gym Management System provides a command-line interface with various options:
 
 Register a Member: Add a new member to the system by providing their details.
@@ -24,10 +24,10 @@ View Reports: Display various reports such as member attendance, workout schedul
 Exit: Quit the program.
 Use the provided menu options to navigate through the system and perform the desired actions.
 
-Contributing
+# Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Ensure that your code adheres to the existing coding style and includes appropriate documentation.
 
-Acknowledgements
+# Acknowledgements
 This Gym Management System was inspired by the need for an efficient tool to manage gym operations. We would like to thank the developers and contributors of the following libraries and resources:
 
 C++ Standard Library for its powerful features and algorithms.
